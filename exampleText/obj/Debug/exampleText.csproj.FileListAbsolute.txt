@@ -1,0 +1,7 @@
+C:\Users\ds\source\repos\exampleText\exampleText\bin\Debug\exampleText.exe.config
+C:\Users\ds\source\repos\exampleText\exampleText\bin\Debug\exampleText.exe
+C:\Users\ds\source\repos\exampleText\exampleText\bin\Debug\exampleText.pdb
+C:\Users\ds\source\repos\exampleText\exampleText\obj\Debug\exampleText.csprojAssemblyReference.cache
+C:\Users\ds\source\repos\exampleText\exampleText\obj\Debug\exampleText.csproj.CoreCompileInputs.cache
+C:\Users\ds\source\repos\exampleText\exampleText\obj\Debug\exampleText.exe
+C:\Users\ds\source\repos\exampleText\exampleText\obj\Debug\exampleText.pdb
